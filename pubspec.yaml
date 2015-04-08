@@ -1,7 +1,5 @@
-name:  todo
-description:  A simple Todo list
+name:  droneDemo
+description:  A sample application to figure out how drone.io works
 
 dependencies:
-  js: any
   unittest: any
-  browser: any
