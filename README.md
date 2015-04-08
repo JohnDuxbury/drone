@@ -1,1 +1,2 @@
-Sample app created for the purpose of setting up CI with drone.io
+This is a simple project that executes `dart:html` unit tests
+from the command line, using `DumpRenderTree` (headless Dartium).
